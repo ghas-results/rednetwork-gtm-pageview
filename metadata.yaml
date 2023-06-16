@@ -1,0 +1,5 @@
+homepage: "https://redventures.com.br/",
+documentation: "https://redventures.com.br/",
+versions:
+  - sha: 
+    changeNotes: Initial release
