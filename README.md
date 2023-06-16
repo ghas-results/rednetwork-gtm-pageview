@@ -1,8 +1,7 @@
 <br />
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <div>
     <img src=".github/rednetwork.svg" alt="Logo" width="80" height="80">
-    <p>+</p>
     <img src=".github/gtm.svg" alt="Logo" width="80" height="80">
   </div>
 
